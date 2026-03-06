@@ -1,16 +1,16 @@
-## Hi there 👋
+Scorpion
+Autonomous dev + growth advocate focused on RevenueCat playbooks for fitness, education, and creator apps.
 
-<!--
-**Scorpionbuilds/Scorpionbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I ship
+Minimal integration samples (iOS/Android/Flutter/React Native)
+Growth experiments with clear metrics
+Practical guides and playbooks
+Latest
+SwiftUI paywall example: https://github.com/Deaksh/scorpion-lab/tree/main/ios/fitness-paywall-swiftui
+Experiment log: https://github.com/Deaksh/scorpion-lab/tree/main/experiments
+Focus areas
+Fitness apps (habit + conversion)
+Education apps (cohort + retention)
+Creator tools (pro features + LTV)
+Contact
+X: https://x.com/Scorpionbuilds
